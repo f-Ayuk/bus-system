@@ -23,7 +23,7 @@ const Category = () => {
                     </div>
                 </Link>
                 <Link to={"/bus"} className='bg-neutral-200/60 dark:bg-neutral-900/40 block rounded-xl px-4 py-5 relative group ease-in-out duration-300 overflow-hidden'>
-                    <img src={Bus2} alt="bus img" className="w-full aspect-video object-container" />
+                    <img src={Bus4} alt="bus img" className="w-full aspect-video object-container" />
                     <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-tr dark:from-neutral-950/80 dark:to-neutral-950/60 from-neutral-400/80 to-neutral-400/60 group-hover:flex hidden items-center justify-center ease-in-out duration-300">
                         <h2 className="text-2xl font-bold text-center text-neutral-900 dark:text-neutral-50">
                             Tourist Bus
